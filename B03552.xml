@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The longing shepherdesse or Laddy lye neere me. [T]o the tune of, Laddy lye neere me: or The green garter.</title>
+            <author>Guy, Richard, writer of ballads.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03552</idno>
+            <idno type="STC">Wing G2277AA</idno>
+            <idno type="STC">Interim Tract Supplement Guide BR f 821.04 B49[28]</idno>
+            <idno type="EEBO-CITATION">99887558</idno>
+            <idno type="PROQUEST">ocm99887558</idno>
+            <idno type="VID">182286</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182286)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:3[30a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The longing shepherdesse or Laddy lye neere me. [T]o the tune of, Laddy lye neere me: or The green garter.</title>
+                  <author>Guy, Richard, writer of ballads.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Francis Grove,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard [i.e. Robert] Guy by Wing.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Imperfect: left half-sheet only, filmed with right half of "The crost couple",( Wing 2nd ed., C7266 varian)t; cropped; imprint wanting.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:182286:1"/>
+                  <!-- PDF PAGE 12 -->
+                  <head>The Longing Shepherdeſſe <hi>OR</hi> Laddy lye neere me.</head>
+                  <opener>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Tune of, <hi>Laddy lye neere me:</hi> Or <hi>The Green Garter.</hi>
+                  </opener>
+                  <p>
+                     <figure/>
+                  </p>
+                  <p>
+                     <figure/>
+                  </p>
+                  <lg>
+                     <l>ALl in the Moneth of May,</l>
+                     <l>when all things bloſſome,</l>
+                     <l>As in my bed I lay,</l>
+                     <l>ſleepe it grew loathſome:</l>
+                     <l>Vp I roſe and did walke</l>
+                     <l>over yon mountaines,</l>
+                     <l>Through Medows, and through Dales,</l>
+                     <l>over rocks and fountaines.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>I heard a voyce to ſay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet heart come cheere me,</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt beene long away,</hi>
+                        </l>
+                        <l>
+                           <hi>Laddy lye neere me.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Down by yon River ſide,</l>
+                     <l>and ſurging Billowes,</l>
+                     <l>A pleaſant Grove <hi>I</hi> eſpide,</l>
+                     <l>well ſet with willowes,</l>
+                     <l>In it a ſhepheardeſſe,</l>
+                     <l>ſinging moſt clearely,</l>
+                     <l>And ſtill her note it was,</l>
+                     <l>Laddy lye neere me.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Come away, doe not ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet heart and cheere me:</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt beene long away,</hi>
+                        </l>
+                        <l>
+                           <hi>deareſt draw neere me.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Swéet heart thou ſtayeſt too long,</l>
+                     <l>
+                        <hi>Phoebe</hi> is watching,</l>
+                     <l>
+                        <hi>Aurora</hi> with her ſteed,</l>
+                     <l>is faſt aproaching,</l>
+                     <l>She doth her Chariot mount,</l>
+                     <l>which much doth feare me,</l>
+                     <l>Each houre a yeare I count,</l>
+                     <l>till thou lye neere me.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Come away, doe not ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet-heart and cheere me,</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt beene long away,</hi>
+                        </l>
+                        <l>
+                           <gap reason="illegible: page cropped" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>eſt d<gap reason="illegible: page cropped" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> near <gap reason="illegible: page cropped" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Hymen</hi> keeps Holy day,</l>
+                     <l>Love take thy pleaſure,</l>
+                     <l>
+                        <hi>Cupid</hi> hath throwne away,</l>
+                     <l>both Bow and Quiver:</l>
+                     <l>
+                        <hi>Boreas</hi> doth gently blow,</l>
+                     <l>leaſt I ſhould feare him,</l>
+                     <l>Yet dare I not to ſtay,</l>
+                     <l>alone too neere him.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Come away doe not ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet-heart and cheere me,</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt bene long away,</hi>
+                        </l>
+                        <l>
+                           <hi>Laddy lye neere me.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Do not <hi>Adonis</hi> like,</l>
+                     <l>ſwéet heart flye from me,</l>
+                     <l>For carefull <hi>I</hi> will be,</l>
+                     <l>as doth become me,</l>
+                     <l>Both of my flocke and thine,</l>
+                     <l>whilſt they are feeding,</l>
+                     <l>Deere is my love to thee,</l>
+                     <l>as is exceeding.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Come away doe not ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet-heart and cheere me,</hi>
+                        </l>
+                        <l>
+                           <hi>Thou haſt beene long away,</hi>
+                        </l>
+                        <l>
+                           <hi>Laddy lye neere me.</hi>
+                        </l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>I may ſing Welladay</l>
+                     <l>my ioyes are ended,</l>
+                     <l>The houre of my approach,</l>
+                     <l>is almoſt ſpended.</l>
+                     <l>My Parents will me miſſe,</l>
+                     <l>and ſwaines will ieere me,</l>
+                     <l>Thus ſtill her note it was,</l>
+                     <l>Laddy lye neere me.</l>
+                     <lg type="refrain">
+                        <l>
+                           <hi>Come away, do not ſtay,</hi>
+                        </l>
+                        <l>
+                           <hi>ſweet-heart and cheere me</hi>
+                        </l>
+                        <l>
+                           <gap reason="illegible: page cropped" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <gap reason="illegible: page cropped" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                        </l>
+                     </lg>
+                  </lg>
+                  <div n="2" type="part">
+                     <p>
+                        <gap reason="missing" extent="1 page">
+                           <desc>〈1 page missing〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:182286:1" rendition="simple:additions"/>
+                  <!-- PDF PAGE 12 -->
+                  <head>
+                     <add>The Crosst Couple</add>
+                  </head>
+                  <div n="1" type="part">
+                     <p>
+                        <gap reason="missing" extent="1 page">
+                           <desc>〈1 page missing〉</desc>
+                        </gap>
+                     </p>
+                  </div>
+                  <div n="2" type="part">
+                     <head>The ſecond part,</head>
+                     <opener>to the ſame tune.</opener>
+                     <p>
+                        <figure/>
+                     </p>
+                     <lg>
+                        <l>
+                           <hi>O</hi> Come my own Deare lets dally a while</l>
+                        <l>
+                           <hi>with q fala la la la la la,</hi>
+                        </l>
+                        <l>thou haſt aicken'd my Spirits now with a ſmile</l>
+                        <l>
+                           <hi>nd thy fa la la la la la la,</hi>
+                        </l>
+                        <l>be trembling of thy Lips do ſhow,</l>
+                        <l>Thou haſt no power to ſay me no,</l>
+                        <l>Which makes me have a moneths mind unto</l>
+                        <l>
+                           <hi>thy fa la la la la la la,</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>This hearty kiſſe is a ſign thou wilt yéeld,</l>
+                        <l>
+                           <hi>to thy fa la, &amp;c.</hi>
+                        </l>
+                        <l>The white of thy eye ſpeaks peace in the Field</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>Then for a vaile to hide thy face,</l>
+                        <l>Ile cloud thee with a ſwéet imbrace,</l>
+                        <l>There's many would wiſh that they were in thy place</l>
+                        <l>
+                           <hi>with their fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Oh do not ſigh to hear me intice,</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>Thou nere hadſt bin got, had thy Mother bin nice</l>
+                        <l>
+                           <hi>with her fa la, &amp;c.</hi>
+                        </l>
+                        <l>Then prethée put me out of my pain,</l>
+                        <l>For I am now in a merry vain,</l>
+                        <l>Lets play at that game, where the looſers do gain</l>
+                        <l>
+                           <hi>with their fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>But oh my own dear, why lyeſt thou ſo ſtill?</l>
+                        <l>
+                           <hi>with thy fa la, &amp;c.</hi>
+                        </l>
+                        <l>Art thou in a ſwound, or what is thy will,</l>
+                        <l>
+                           <hi>with thy fa la, &amp;c.</hi>
+                        </l>
+                        <l>I prethée joy take no ſuch grief</l>
+                        <l>Since <hi>I</hi> am ſo néer to thy reliefe,</l>
+                        <l>Oh, let me play the amorous thief</l>
+                        <l>
+                           <hi>with thy fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>My deareſt of all, why holdſt thou ſo faſt,</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>Ile ſwear we will marry if thou wilt make haſte</l>
+                        <l>
+                           <hi>with thy a la &amp;c.</hi>
+                        </l>
+                        <l>
+                           <hi>Cupid</hi> doth give no leave to play,</l>
+                        <l>Thy very bluſhes do betray</l>
+                        <l>That thou doſt interpret what I have to ſay</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Then on her Brow her Vaile ſhe ſpred,</l>
+                        <l>
+                           <hi>with a fa la. &amp;c:</hi>
+                        </l>
+                        <l>As if he'd béen going to cut off her head</l>
+                        <l>
+                           <hi>with his fa la, &amp;c.</hi>
+                        </l>
+                        <l>He with his Lips her mouth did wipe,</l>
+                        <l>And gave her many an earneſt gripe,</l>
+                        <l>For juſt now my Lady was yielding ripe,</l>
+                        <l>
+                           <hi>with her fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>In what a fret was I in the trée,</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>That I had not then another by me,</l>
+                        <l>
+                           <hi>with her fa la, &amp;c.</hi>
+                        </l>
+                        <l>Then I perceiv'd they whisper'd awhile,</l>
+                        <l>With many fair pleadings he did her beguile</l>
+                        <l>Sure ſomething he ſhow'd her which made her to ſmile</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>He ſaid he was ſure they could not be ſpyed</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>But I (if I durſt) could have told him he ly'd</l>
+                        <l>
+                           <hi>with his fa la, &amp;c.</hi>
+                        </l>
+                        <l>I fear'd I ſhould be brought to light;</l>
+                        <l>She ſo often caſt up her eyes ſo bright,</l>
+                        <l>The pleaſure of love did ſo dazle her ſight,</l>
+                        <l>
+                           <hi>and her fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>My Gamſter could no longer forbear,</l>
+                        <l>
+                           <hi>her fa la, &amp;c.</hi>
+                        </l>
+                        <l>No more ſhould I, if I had béen there,</l>
+                        <l>
+                           <hi>by her fa la, &amp;c.</hi>
+                        </l>
+                        <l>I turn'd and ſerued my body round,</l>
+                        <l>To ſée my Gallant ſcale the Town;</l>
+                        <l>But his getting up, made me tumble down,</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Such was my fate, no mischief I had,</l>
+                        <l>
+                           <hi>with a fa la, &amp;c.</hi>
+                        </l>
+                        <l>My Lovers both run as if they'd béen mad,</l>
+                        <l>
+                           <hi>with their fa la, &amp;c.</hi>
+                        </l>
+                        <l>And now I hope a warning 'twill be,</l>
+                        <l>How they in ſuch ſinful pleaſures agrée,</l>
+                        <l>For fear of the Devil that fell from the tr<gap reason="illegible: damage" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </l>
+                        <l>
+                           <hi>with his fa la la la la la la,</hi>
+                        </l>
+                     </lg>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
